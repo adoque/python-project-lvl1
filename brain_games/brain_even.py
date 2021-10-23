@@ -20,9 +20,9 @@ def check_even(name):
                 break
         elif even and answer != 'yes':
             print("'{}' is wrong answer ;(. Correct answer was 'yes'.".format(answer))
-            print("Let's try again, {}".format(name))
+            print("Let's try again, {}!".format(name))
             break
         elif odd and answer != 'no':
             print("'{}' is wrong answer ;(. Correct answer was 'no'.".format(answer))
-            print("Let's try again, {}".format(name))
+            print("Let's try again, {}!".format(name))
             break
