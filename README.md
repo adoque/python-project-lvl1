@@ -7,4 +7,4 @@
 
 ![Git Action Linter](https://github.com/stereoyana/python-project-lvl1//actions/workflows/gitact.yml/badge.svg)
 
-https://asciinema.org/a/bz6I5v8oaeubSJmLRha8pCxWg
+https://asciinema.org/a/3EFjXO0Z5N9cNRS6prC1rsrLc
